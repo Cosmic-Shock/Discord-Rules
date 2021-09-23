@@ -2,6 +2,7 @@
     <img src="https://media.discordapp.net/attachments/877923668385206312/883595844299935794/1624961859544.jpg" width="400px">
 </div>
 <div align="center">
+<font size="30">
 <h1>Cosmic Shock <hr> Discord Rules</h1>
 </div>
 
