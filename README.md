@@ -1,9 +1,10 @@
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/877923668385206312/883595844299935794/1624961859544.jpg" width="400px">
+    <img src="https://media.discordapp.net/attachments/877923668385206312/883595844299935794/1624961859544.jpg" width="1000px" height="150px" >
+&nbsp;
+
+## Discord Rules - Cosmic Shock 
 </div>
-<div align="center">
-<h1>Cosmic Shock <hr> Discord Rules</h1>
-</div>
+&nbsp;
 
 **#1:** You must respect all users, regardless of your liking towards them.
 
@@ -33,11 +34,9 @@
 
 **#14:** If you think you have been punished (warned/muted/kicked/banned) for wrong reason or anything you believe has been done wrongly and it shouldn't be done, then DM our modmail and we will resolve the issue.
 
-**#15:** Follow [Discord Guidelines](https://discordapp.com/guidelines) & [Discord ToS](https://discordapp.com/terms). All users should be 13 or 13+. If we find you as underage then you'll be directly banned without any warnings for violating Discord ToS.
-
-
-> *●  If any of the above rules are violated then staff reserves the right to take the necessary action against the offender.*
-> 
-> *●  Everything doesn't need to be mentioned in rules you need to use  common sense as well. We expect all the members to be humble and respectful towards each other as well as welcoming towards the new member.*
->
-> *●  Your presence in this server implies accepting these rules, including all further changes. These changes might me done at any time without notice, it is your responsibility to check for them.*
+**#15:** Follow [Discord Guidelines](https://discord.com/guidelines) & [Discord ToS](https://discord.com/terms). All users should be 13 or 13+. If we find you as underage then you'll be directly banned without any warnings for violating Discord ToS.
+&nbsp;
+> **Please Note:**
+>- *If any of the above rules are violated then staff reserves the right to take the necessary action against the offender.*
+>- *Everything doesn't need to be mentioned in rules you need to use  common sense as well. We expect all the members to be humble and respectful towards each other as well as welcoming towards the new member.*
+>- *Your presence in this server implies accepting these rules, including all further changes. These changes might me done at any time without notice, it is your responsibility to check for them.*
